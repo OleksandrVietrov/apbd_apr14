@@ -1,0 +1,40 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio / Rider / ReSharper
+.vs/
+.idea/
+_ReSharper*/
+*.DotSettings.user
+
+# .NET tooling
+.dotnet/
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+coverage/
+artifacts/
+
+# NuGet
+*.nupkg
+packages/
+!**/packages/build/
+project.lock.json
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
